@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">StartupEdu</h3>
             <p className="text-gray-600">
-              Empowering entrepreneurs with knowledge and tools to succeed.
+            Equipping entrepreneurs with the knowledge and tools they need to thrive.
             </p>
           </div>
           <div>
